@@ -1,4 +1,4 @@
-Integrantes: Luan Aquino Souza, José Ambrósio & Charles
+Integrantes: Luan Aquino & José Ambrósio
 
 Problematica: A pousada Quinta do Ypuã enfrenta desafios consideráveis no gerenciamento de suas hospedagens e clientes. Um dos principais problemas enfrentados é a falta de um sistema centralizado para gerenciar de forma simples e eficiente as reservas e hóspedes da pousada. Com registros manuais e planilhas pouco produtivas, muitas vezes ocorrem erros de agendamento, duplicação de reservas ou perda de informações importantes. Isso causa confusão tanto para a equipe da pousada quanto para os clientes.
 
@@ -19,3 +19,6 @@ Essa solução vai:
 * Reduzir erros: As informações estarão sempre corretas e atualizadas.
 * Tomar melhores decisões: Os donos da pousada terão mais informações para tomar decisões sobre o negócio.
 
+Após ser chutados da nossa antiga empresa eu e meu sócio (Ambrósio) decedimos fazer o melhor para o cliente, um site limpo, simples e fácil para qualquer tipo de funcionário, até mesmo aqueles que não tem muita noção sobre computadores saberam como mexer por causa da sua intuitividade, como se já soubesse como mexer. Para tudo começar ele precisa de um login, caso seja um funcionário novo fará um cadastro, esse cadastro pega algumas informações importante: nome completo, CPF, RG e uma fotografia, após ser enviado o cadastro, o RH pegará aqueles dados verá a ficha do funcionário e criará seu novo "User" e uma "Senha" só dessa pessoa (Eles entram em contato apartir do e-mail ou do telefone qual está no curriculo (fisico) do funcionáro), após entrar pela primeira vez ele se depará com a tela INCIAL, onde pode ver a logo do hotel, uma saudação, na parte de baixo (footer) vê o contato do seu superior e a versão do aplicativo, além que lá em cima (header) pode vê um icone de perfil, um de sair e outro de notificações, onde ficam as coisas mais importantes, e abaixo desse header já podem ver uma barra de pesquisa que facilita em busca de alguma informação. A cor de fundo utilizada foi um azul, isso pois o azul é associado à segurança, confiança e limpeza, oque faz sentido com um hotel.
+
+A tela de "Agendamento" meu sócio de começo quis fazer o calendario na tela inteira, mas houveram certas dificuldades e não estava ficando legal, então para manter mais simples, pegamos um calendario menor o qual o funcionário pode clicar no dia, e ao lado esquerdo já preencher as informações do cliente, deixando isso bem mais simples para o uso, sem precisar ir para outras páginas.
